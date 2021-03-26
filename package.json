@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apollo-datasource-rest": "^0.11.0",
+    "camelcase-keys": "^6.2.2"
+  }
+}
